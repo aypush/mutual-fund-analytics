@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+*.db
+*.sqlite
+*.sqlite3
+
+.ipynb_checkpoints/
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/db/*
+!data/db/.gitkeep
