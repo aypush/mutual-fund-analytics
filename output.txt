@@ -1,0 +1,50 @@
+
+TOP 10 FUNDS BY 3-YEAR RETURN
+
+                                          scheme_name  ... aum_crore
+2          SBI Small Cap Fund - Regular Plan - Growth  ...     19259
+3           SBI Small Cap Fund - Direct Plan - Growth  ...     36061
+29             ABSL Small Cap Fund - Regular - Growth  ...     41613
+27             Axis Small Cap Fund - Regular - Growth  ...     21545
+17     Nippon India Small Cap Fund - Regular - Growth  ...     43630
+39              DSP Small Cap Fund - Regular - Growth  ...     35124
+21      Kotak Emerging Equity Fund - Regular - Growth  ...     47469
+12           ICICI Pru Midcap Fund - Regular - Growth  ...       979
+38                 DSP Midcap Fund - Regular - Growth  ...     37835
+7   HDFC Mid-Cap Opportunities Fund - Regular - Gr...  ...     23185
+
+[10 rows x 5 columns]
+
+
+AVERAGE RETURN BY CATEGORY
+
+category
+Small Cap          21.686667
+Mid Cap            16.590000
+Flexi Cap          15.495000
+Value              14.760000
+Large & Mid Cap    14.560000
+ELSS               13.580000
+Large Cap          12.985714
+Index              12.100000
+Index/ETF          11.770000
+Short Duration      7.370000
+Liquid              6.333333
+Gilt                5.690000
+Name: return_3yr_pct, dtype: float64
+
+
+AVERAGE RETURN BY FUND HOUSE
+
+fund_house
+DSP Mutual Fund             16.686667
+SBI Mutual Fund             15.252000
+Axis Mutual Fund            15.035000
+UTI Mutual Fund             14.350000
+Mirae Asset MF              14.316667
+Aditya Birla Sun Life MF    13.766667
+HDFC Mutual Fund            13.492000
+ICICI Prudential MF         13.294000
+Kotak Mahindra MF           13.077500
+Nippon India MF             12.712000
+Name: return_3yr_pct, dtype: float64

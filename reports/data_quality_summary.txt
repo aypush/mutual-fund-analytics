@@ -1,0 +1,34 @@
+
+DATA QUALITY REPORT
+
+Shape: (40, 15)
+
+Missing Values:
+amfi_code             0
+fund_house            0
+scheme_name           0
+category              0
+sub_category          0
+plan                  0
+launch_date           0
+benchmark             0
+expense_ratio_pct     0
+exit_load_pct         0
+min_sip_amount        0
+min_lumpsum_amount    0
+fund_manager          0
+risk_category         0
+sebi_category_code    0
+
+Duplicate Rows: 0
+
+Numeric Summary:
+           amfi_code  expense_ratio_pct  exit_load_pct  min_sip_amount  min_lumpsum_amount
+count      40.000000          40.000000      40.000000            40.0           40.000000
+mean   120247.000000           1.237000       0.812500           500.0         1277.500000
+std     14534.998667           0.386584       0.387091             0.0         1082.847031
+min    100016.000000           0.550000       0.000000           500.0          100.000000
+25%    118632.750000           0.787500       1.000000           500.0         1000.000000
+50%    119551.500000           1.425000       1.000000           500.0         1000.000000
+75%    120842.250000           1.540000       1.000000           500.0         1000.000000
+max    149324.000000           1.640000       1.000000           500.0         5000.000000
